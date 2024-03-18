@@ -1,1 +1,1 @@
-wejrhhwe
+print("HAHAHHAH")
